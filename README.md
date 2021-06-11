@@ -8,7 +8,7 @@ Setup is done to run on local setup of kubernetes using helm
 Image used is the official dockerhub image of mediawiki
 https://hub.docker.com/_/mediawiki
 
-##### A manual image can also be create using Dockerfile and creating ConfigMaps for application configuration
+##### A manual image can be created using Dockerfile envs can be used for application variables.
 
 
 Closne the repo and run the below command
